@@ -5,7 +5,7 @@ jobs:
     rens-on: ubuntu-latest
     steps:
       -name: my-step
-       run: echo"hellow world"
+       run: echo "hello world"
       -name: my_workshop
        run: echo"devops"
       -name: all_sescion
