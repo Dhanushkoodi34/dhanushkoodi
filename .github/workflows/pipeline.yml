@@ -2,10 +2,10 @@ name: hello-world
 on: push
 jobs:
   my-job:
-    rens-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       -name: my-step
-       run: echo "hello world"
+       run: echo "hello world-1214214"
       -name: my_workshop
        run: echo"devops"
       -name: all_sescion
