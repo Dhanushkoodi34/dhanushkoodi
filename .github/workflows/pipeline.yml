@@ -5,8 +5,8 @@ jobs:
     rens-on: ubuntu-latest
     steps:
       -name: my-step
-       run: echo "hellow world"
+       run: echo"hellow world"
       -name: my_workshop
        run: echo"devops"
       -name: all_sescion
-       run: echo "hands on workshop"
+       run: echo"hands on workshop"
